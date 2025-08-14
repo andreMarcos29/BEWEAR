@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
         hostname: "fsc-projects-static.s3.us-east-1.amazonaws.com",
       },
     ],
+    domains: ["d4lgxe9bm8juw.cloudfront.net"],
   },
 };
 
